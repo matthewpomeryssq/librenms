@@ -19,9 +19,7 @@ parameters:
     scanDirectories:
         - includes
 
-    level: 5
-    # TODO: REMOVE ME!
-    reportUnmatchedIgnoredErrors: false
+    level: 6
 
     checkMissingIterableValueType: false
     treatPhpDocTypesAsCertain: false
